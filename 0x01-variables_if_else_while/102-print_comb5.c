@@ -42,5 +42,6 @@ int main(void)
 		}
 		c++;
 	}
-	c++;
+	putchar('\n');
+	return (0);
 }
