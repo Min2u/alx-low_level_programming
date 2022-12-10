@@ -42,5 +42,5 @@ int main(void)
 		}
 		c++;
 	}
-	e++;
+	c++;
 }
