@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - main block
- * Retern: Always 0
+ * main - prints all possible different combinations of two digits
+ * Return: Always 0
  */
 int main(void)
 {
@@ -30,5 +30,6 @@ int main(void)
 		d++;
 	}
 	putchar('\n');
+
 	return (0);
 }
