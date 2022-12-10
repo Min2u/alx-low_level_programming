@@ -14,7 +14,7 @@ int main(void)
 	int f_d2;
 	int l_d2;
 
-	while (e <= 98)
+	while (c <= 98)
 	{
 		f_d = (c / 10 + '0');
 		l_d = (c % 10 + '0');
