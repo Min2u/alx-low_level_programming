@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abc - Computes the absoute volume of an integer.
+ * _abc - Computes the absolute value of an integer.
  * @c: The number to be computed.
  * Return: Absolute value of number or zero
  */
