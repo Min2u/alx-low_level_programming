@@ -23,7 +23,7 @@ while (a <= 9)
 		}
 		else if (rep < 10)
 		{
-			_putchar(' ')
+			_putchar(' ');
 			_putchar('0' + rep);
 		}
 		else
@@ -37,10 +37,10 @@ while (a <= 9)
 			_putchar(',');
 			_putchar(' ');
 		}
-		b++
+		b++;
 	}
 	_putchar('\n');
-	a++
+	a++;
 }
 
 }
