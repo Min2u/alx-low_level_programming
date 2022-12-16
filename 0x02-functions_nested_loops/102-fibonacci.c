@@ -1,4 +1,4 @@
-#include <stdio.n>
+#include <stdio.h>
 
 /**
  * main - main block
