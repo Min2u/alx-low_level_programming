@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - prints a string, followed by a new line, to stdout
+ * _puts - prints a string, followed by a new line
  * @str: string to printed
  * Return: void
  */
@@ -12,7 +12,7 @@ void _puts(char *str)
 
 	while (str[i])
 	{
-		_putchar(str[i]);
+		putchar(str[i]);
 		i++;
 	}
 		_putchar('\n');
