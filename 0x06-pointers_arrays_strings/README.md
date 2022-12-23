@@ -1,1 +1,1 @@
-0x06 more pinters arrays and strings
+0x06 more pointers arrays strings
