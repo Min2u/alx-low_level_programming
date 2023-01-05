@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _prints_rev_reursion - prints a string, followed by a new line
+ * _prints_rev_recursion - prints a string, followed by a new line
  * @s: pointer to the string
  * Return: void
  */
